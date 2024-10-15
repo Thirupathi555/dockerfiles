@@ -1,4 +1,5 @@
 FROM almalinux:9
-LABEL author="thirupathi" /
-company = "tcs" /
-topic = "docker" /
+LABEL author="sivakumar reddy" \
+      company="joindevops" \
+      topic="dockerfiles" \
+      duration="2hrs"
